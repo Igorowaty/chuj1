@@ -24,6 +24,7 @@
     --backgroundsize: cover;
     --popoutsize: cover;
     --backdropsize: cover;
-    --font-family: gotham;
-    --background-opacity: 0.5;
+    --background-solid: rgba(0,0,0,0.30);
+    --accent: 37, 172, 232;
+    --accent-alt: 29, 101, 134;
 }
