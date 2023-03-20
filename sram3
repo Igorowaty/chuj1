@@ -25,5 +25,5 @@
     --popoutsize: cover;
     --backdropsize: cover;
     --font-family: gotham;
-    --opacity: 0.5;
+    --background-opacity: 0.5;
 }
