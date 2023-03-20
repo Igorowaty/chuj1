@@ -1,21 +1,21 @@
 /**
- * @name Seele Honkai Impact
- * @author Сэкера_Мика
+ * @name Patchouli
+ * @author Amika
  * @version auto updates
  * @description Theme was created in generator https://vsthemes.org/generator/
- * @source https://vsthemes.org/en/skins/discord/50881-seele-honkai-impact.html
- * @authorLink https://vsthemes.org/user/%D0%A1%D1%8D%D0%BA%D0%B5%D1%80%D0%B0_%D0%9C%D0%B8%D0%BA%D0%B0/
- * @authorId 102168
+ * @source https://vsthemes.org/en/skins/discord/48184-patchouli.html
+ * @authorLink https://vsthemes.org/user/Amika/
+ * @authorId 87627
 */
 @import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
 :root {
-    --transparencycolor: 31,31,38;
-    --transparencyalpha: 0.25;
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.2;
     --messagetransparency: 0.5;
-    --guildchanneltransparency: 0.15;
+    --guildchanneltransparency: 0.2;
     --memberlistransparency: 0;
-    --accentcolor: 118,109,227;
-    --background: url("https://vsthemes.org/uploads/posts/2022-04/1648806259_3_seele123.webp");
+    --accentcolor: 167,76,238;
+    --background: url("https://vsthemes.org/uploads/posts/2021-12/1639415454_99px_ru_wallpaper_318352_plachushaja_patchouli_knowledge__pachuli_nolidj_lejit_na.webp");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
@@ -24,7 +24,4 @@
     --backgroundsize: cover;
     --popoutsize: cover;
     --backdropsize: cover;
-    --background-solid: rgba(0,0,0,0.30);
-    --accent: 37, 172, 232;
-    --accent-alt: 29, 101, 134;
 }
