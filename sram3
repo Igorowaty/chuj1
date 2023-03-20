@@ -1,21 +1,21 @@
 /**
- * @name Neko v.1
- * @author Alexandr karpach
+ * @name Seele Honkai Impact
+ * @author Сэкера_Мика
  * @version auto updates
  * @description Theme was created in generator https://vsthemes.org/generator/
- * @source https://vsthemes.org/en/skins/discord/49081-nekoschwepstheme.html
- * @authorLink https://vsthemes.org/user/Alexandr+karpach/
- * @authorId 91349
+ * @source https://vsthemes.org/en/skins/discord/50881-seele-honkai-impact.html
+ * @authorLink https://vsthemes.org/user/%D0%A1%D1%8D%D0%BA%D0%B5%D1%80%D0%B0_%D0%9C%D0%B8%D0%BA%D0%B0/
+ * @authorId 102168
 */
 @import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
 :root {
-    --transparencycolor: 0,0,0;
-    --transparencyalpha: 0.1;
-    --messagetransparency: 0.35;
-    --guildchanneltransparency: 0.1;
+    --transparencycolor: 31,31,38;
+    --transparencyalpha: 0.25;
+    --messagetransparency: 0.5;
+    --guildchanneltransparency: 0.15;
     --memberlistransparency: 0;
-    --accentcolor: 255,215,92;
-    --background: url("https://vsthemes.org/uploads/posts/2022-01/1642256696_1111.webp");
+    --accentcolor: 118,109,227;
+    --background: url("https://vsthemes.org/uploads/posts/2022-04/1648806259_3_seele123.webp");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
